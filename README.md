@@ -3,7 +3,7 @@
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![WordPress Plugin](https://img.shields.io/badge/WordPress-Plugin-blueviolet)](https://wordpress.org/)
 
-[![AI Models by ModelRunner](https://modelrunner.ai/badge.svg)](https://modelrunner.ai/?utm_source=github&utm_medium=referral&utm_campaign=oss-program)
+[![AI Models by ModelRunner](https://modelrunner.ai/badge.svg)](https://modelrunner.ai/?utm_source=github&utm_medium=referral&utm_campaign=oss-program) and minirouter
 
 **Ptero** is a free, open-source AI chat platform that gives you instant access to multiple powerful language models through a single, clean interface. No signup is required, and it is designed for developers, students, and creators who value privacy and simplicity.
 
