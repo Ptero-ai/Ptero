@@ -8,6 +8,7 @@
 **Ptero** is a free, open-source AI chat platform that gives you instant access to multiple powerful language models through a single, clean interface. No signup is required, and it is designed for developers, students, and creators who value privacy and simplicity.
 
 **Try it live:** [https://ptero.pro](https://ptero.pro)
+Powered by Webclaw
 
 ---
 
