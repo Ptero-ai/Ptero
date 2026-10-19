@@ -24,9 +24,8 @@ We are incredibly grateful to our sponsors for their support in keeping Ptero fr
 <br>
 
 <a href="https://www.jtti.cc/zh/activity/promo-september.html?z=aiptero" target="_blank">
-    <img src="https://ptero.pro/wp-content/uploads/2026/09/article_logo.png" alt="JTTI" width="200">
+    <img src="https://github.com/user-attachments/assets/773391c0-aaaa-405d-9648-29511ab5abe0" alt="JTTI" width="200">
 </a>
-
 
 ---
 
