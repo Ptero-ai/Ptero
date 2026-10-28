@@ -20,12 +20,21 @@ We are incredibly grateful to our sponsors for their support in keeping Ptero fr
 <a href="https://agiler.io" target="_blank">
     <img src="https://ptero.pro/wp-content/uploads/2026/09/Capture.png" alt="Agiler" width="200">
 </a>
-
+/
 <br>
+
 
 <a href="https://www.jtti.cc/zh/activity/promo-september.html?z=aiptero" target="_blank">
     <img src="https://github.com/user-attachments/assets/773391c0-aaaa-405d-9648-29511ab5abe0" alt="JTTI" width="200">
 </a>
+
+/
+
+<img width="400" height="150" alt="VoyageAge-promotional-badge-2026" src="https://github.com/user-attachments/assets/23d3bcc3-54ba-4992-9e91-cc82a7f114d9" />
+
+One API. More models. Lower costs.
+
+VoyageAge brings leading AI models together through one OpenAI-compatible API. Built for developers, teams, and AI startups, it offers competitive pricing and pay-as-you-go billing, making it easier to integrate AI into your projects. Sign up for free trial credits and start building. voyageage.com ↗
 
 ---
 
