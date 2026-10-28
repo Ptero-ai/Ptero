@@ -34,7 +34,7 @@ We are incredibly grateful to our sponsors for their support in keeping Ptero fr
 
 One API. More models. Lower costs.
 
-VoyageAge brings leading AI models together through one OpenAI-compatible API. Built for developers, teams, and AI startups, it offers competitive pricing and pay-as-you-go billing, making it easier to integrate AI into your projects. Sign up for free trial credits and start building. voyageage.com ↗
+VoyageAge brings leading AI models together through one OpenAI-compatible API. Built for developers, teams, and AI startups, it offers competitive pricing and pay-as-you-go billing, making it easier to integrate AI into your projects. Sign up for free trial credits and start building. https://voyageage.com ↗
 
 ---
 
