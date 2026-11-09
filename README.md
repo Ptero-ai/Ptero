@@ -41,7 +41,7 @@ VoyageAge brings leading AI models together through one OpenAI-compatible API. B
 
 ## ✨ Key Features
 
-- **Access Multiple AI Models**: Choose from a wide range of models, including **DeepSeek V4**, **Llama 3.3**, **Qwen**, **MiniMax**, **Mistral**, and more.
+- **Access Multiple AI Models**
 - **One-Click Model Switching**: Instantly switch between different AI models to compare responses and find the best output for your needs.
 - **Projects & Organization**: Keep your conversations organized with a project-based workspace, perfect for managing different tasks or clients.
 - **Media Library**: Upload and manage files within your chats, providing rich context for your AI conversations.
