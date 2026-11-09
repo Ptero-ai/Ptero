@@ -70,7 +70,6 @@ Ptero can be easily added to any WordPress site as a plugin.
 
 - **Frontend**: JavaScript, HTML, CSS
 - **Backend**: PHP (for WordPress integration), REST API
-- **AI Integrations**: DeepSeek, Llama, Qwen, MiniMax, Mistral, and more
 
 ---
 
