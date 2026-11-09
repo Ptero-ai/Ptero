@@ -102,4 +102,4 @@ Ptero would not be possible without the amazing open-source AI community and the
 ## 📞 Contact & Support
 
 - **Website**: [https://ptero.pro](https://ptero.pro)
-- **GitHub**: [https://github.com/aminkheddache-dotcom/Pterocos](https://github.com/aminkheddache-dotcom/Ptero)
+- **GitHub**: https://github.com/Ptero-ai/Ptero
