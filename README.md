@@ -46,7 +46,6 @@ VoyageAge brings leading AI models together through one OpenAI-compatible API. B
 - **Projects & Organization**: Keep your conversations organized with a project-based workspace, perfect for managing different tasks or clients.
 - **Media Library**: Upload and manage files within your chats, providing rich context for your AI conversations.
 - **Privacy-First Design**: All conversations are stored locally in your browser (but only project chats are stored in our servers).
-- **Completely Free**: Ptero is a non-profit project, and access to all models is provided at no cost. We do not offer paid plans or subscriptions.
 - **Open Source**: Ptero is fully open-source under the GPL v2 license. You can inspect the code, contribute, or self-host.
 
 ---
